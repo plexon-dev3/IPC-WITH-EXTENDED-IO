@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4e3b13d6-1387-4487-94b9-6f5c30a91650")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.908 25.146)
+		(size 51.308 26.162)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5c7e0207-c405-418a-bc02-fd21e46859a6")
+		(property "Sheetname" "ESP32_C3_MINI_1"
+			(at 25.908 24.4344 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_C3_MINI_1.kicad_sch"
+			(at 25.908 51.8926 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IPC_PROJECT_KICAD"
+				(path "/4e3b13d6-1387-4487-94b9-6f5c30a91650"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 66.04)
+		(size 48.26 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5fd55762-cb39-4452-b365-78c61e859c0e")
+		(property "Sheetname" "24 TO 5V BUCK COVERTER"
+			(at 25.4 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "24 TO 5V BUCK COVERTER.kicad_sch"
+			(at 25.4 92.0246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IPC_PROJECT_KICAD"
+				(path "/4e3b13d6-1387-4487-94b9-6f5c30a91650"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 213.36 25.4)
+		(size 50.8 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b7b396e0-5782-4953-b498-d4441f4e682d")
+		(property "Sheetname" "DIGITAL_INPUT"
+			(at 213.36 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIGITAL_INPUT.kicad_sch"
+			(at 213.36 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IPC_PROJECT_KICAD"
+				(path "/4e3b13d6-1387-4487-94b9-6f5c30a91650"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 25.4)
+		(size 53.086 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b930664c-ef5b-4afc-81eb-8e8874ab935d")
+		(property "Sheetname" "DIGITAL_OUTPUT"
+			(at 143.51 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_DO.kicad_sch"
+			(at 143.51 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IPC_PROJECT_KICAD"
+				(path "/4e3b13d6-1387-4487-94b9-6f5c30a91650"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.852 25.146)
+		(size 52.578 25.654)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c28901b4-f255-422d-875d-02163c27d78b")
+		(property "Sheetname" "EXTENDED_IO_PWR_WITH_E_FUSE"
+			(at 85.852 24.4344 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EXTENDED_IO_PWR.kicad_sch"
+			(at 85.852 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IPC_PROJECT_KICAD"
+				(path "/4e3b13d6-1387-4487-94b9-6f5c30a91650"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

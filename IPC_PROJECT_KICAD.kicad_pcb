@@ -17024,7 +17024,7 @@
 	(footprint "PCN-105D3MHZ:PCN-105D3MHZ"
 		(layer "F.Cu")
 		(uuid "885304da-300e-4a0b-b14d-f75cd486d5ba")
-		(at 108.055 103.025 180)
+		(at 108.055 103.62 180)
 		(descr "Single contact 5V relay")
 		(property "Reference" "U3"
 			(at 0 0 0)
@@ -31375,7 +31375,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "f7c9b1cf-1e92-429e-b320-cd9454fc8a6a")
-		(at 119.2 103.525 -90)
+		(at 119.13 103.5925 -90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D5"
